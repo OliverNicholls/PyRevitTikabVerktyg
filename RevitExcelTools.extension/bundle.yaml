@@ -1,0 +1,15 @@
+title: Revit Excel Tools
+description: Import and export Revit data from/to Excel spreadsheets
+author: Tikab Strukturmekanik AB
+url: https://github.com/OliverNicholls/PyRevitTikabVerktyg
+version: 0.1.0
+repo: https://github.com/OliverNicholls/PyRevitTikabVerktyg.git
+requires:
+  - revit: 2020
+  - pyrevit: 4.5
+keywords:
+  - excel
+  - export
+  - import
+  - data
+  - revit

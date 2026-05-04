@@ -8,7 +8,8 @@
       "Bash(git commit -m 'Initial PyRevit tool scaffolding for Excel import/export *)",
       "Bash(git remote *)",
       "Bash(git branch *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "WebFetch(domain:pyrevitlabs.notion.site)"
     ]
   }
 }
