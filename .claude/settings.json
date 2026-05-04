@@ -5,7 +5,10 @@
       "Bash(git init *)",
       "Bash(git config *)",
       "Bash(git add *)",
-      "Bash(git commit -m 'Initial PyRevit tool scaffolding for Excel import/export *)"
+      "Bash(git commit -m 'Initial PyRevit tool scaffolding for Excel import/export *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git push *)"
     ]
   }
 }
