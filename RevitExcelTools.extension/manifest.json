@@ -1,0 +1,7 @@
+{
+  "name": "Revit Excel Tools",
+  "description": "Tools for importing and exporting data between Revit and Excel",
+  "author": "Tikab Strukturmekanik AB",
+  "version": "0.1.0",
+  "uri": "https://github.com/yourusername/revit-excel-tools"
+}

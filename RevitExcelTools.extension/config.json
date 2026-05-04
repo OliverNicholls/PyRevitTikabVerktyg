@@ -1,0 +1,15 @@
+{
+  "excel_file_path": "",
+  "export_all_elements": true,
+  "include_parameters": true,
+  "auto_backup": true,
+  "sheet_name": "RevitData",
+  "element_filter": [
+    "Walls",
+    "Doors",
+    "Windows",
+    "Floors",
+    "Columns",
+    "Beams"
+  ]
+}
